@@ -1,1 +1,1 @@
-Link to the template files: https://github.com/tomitokko/django-social-media-template
+TEKLEHAYMANOT KASSA  ETS 1000/11
